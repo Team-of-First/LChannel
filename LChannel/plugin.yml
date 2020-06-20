@@ -1,0 +1,16 @@
+name: LChannel
+main: LeRUGod\LChannel\LChannel
+version: 0.0.1
+author: LeRUGod
+api:
+  3.12.1
+  3.13.0
+commands:
+  "채널 추가":
+    description: 채널 추가 커맨드
+  "채널 선택":
+    description: 채널 선택 커맨드
+  "채널 삭제":
+    description: 채널 삭제 커맨드
+  "채널 초기화":
+    description: 채널 초기화 커맨드
